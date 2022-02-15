@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/code/study_raws/mlflow/mlruns/1/cd567ee732dc4169b640fa43c281f88c/artifacts
+end_time: 1644905951694
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: cd567ee732dc4169b640fa43c281f88c
+run_uuid: cd567ee732dc4169b640fa43c281f88c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1644905946400
+status: 3
+tags: []
+user_id: snmhz
